@@ -2,4 +2,6 @@
 
 in this paper we prove,Finiteness and Improved Uniform Bounds for Signed Powers of Integer Linear Polynomials
 
+Author: Guruprasad 
+
 Note: This paper is written with the assistance of ai.
